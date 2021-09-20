@@ -1,1 +1,11 @@
+Hi, Welcome.
 
+You can modify this website under MIT License, you can
+use our YouTube video's too. You can even monetise them too,
+my all projects are open-source, feel free to download, modify &
+re-distribute them.
+
+- File created on 20/9/2021
+- Last modified on 20/9/2021
+
+Thanks for reading this file, have a good day.
