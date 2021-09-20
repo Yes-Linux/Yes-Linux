@@ -1,5 +1,5 @@
 # Yes Linux
-This is our official website, a Linux learning website.
+Yes Linux official website, hosted on GitHub.
 
 # Information
 For more information, read [information.txt](https://github.com/Yes-Linux/Yes-Linux/blob/main/information.txt) file.
